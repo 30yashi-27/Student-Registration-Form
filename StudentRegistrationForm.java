@@ -106,3 +106,4 @@ public class StudentRegistrationForm extends JFrame implements ActionListener {
         new StudentRegistrationForm();
     }
 }
+
